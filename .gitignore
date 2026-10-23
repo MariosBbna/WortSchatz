@@ -1,0 +1,17 @@
+# Private settings (PIN, secret key)
+local_settings.json
+
+# Personal progress and earnings
+progress.json
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
